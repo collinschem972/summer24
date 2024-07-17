@@ -6,9 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Dr David J Collins</personname>
+      <department>Department of Math and Physical Sciences</department>
+      <institution>Franciscan University of Steubenville</institution>
     </author>
     <date>
       <today />
@@ -22,7 +22,7 @@
     </website>
 
     <copyright>
-      <year>2020<ndash />2023</year>
+      <year>2024</year>
       <holder>You</holder>
       <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
       </shortlicense>
